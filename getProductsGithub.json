@@ -1,0 +1,17 @@
+[
+  {
+    "id_product": 124,
+    "product_name": "Куртки",
+    "price": 1600,
+    "img": "./images/item1.png"
+      },
+  {
+    "id_product": 457,
+    "product_name": "Шляпы",
+    "price": 1500,
+    "img": "./images/low-center-icon.png"
+  }
+
+ 
+  
+]
